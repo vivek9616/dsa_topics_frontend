@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.df26d8a3.css",
-    "main.js": "/repository-name/static/js/main.7962f169.js",
-    "index.html": "/repository-name/index.html",
-    "main.df26d8a3.css.map": "/repository-name/static/css/main.df26d8a3.css.map",
-    "main.7962f169.js.map": "/repository-name/static/js/main.7962f169.js.map"
+    "main.css": "/dsa_topics_frontend/static/css/main.df26d8a3.css",
+    "main.js": "/dsa_topics_frontend/static/js/main.7962f169.js",
+    "index.html": "/dsa_topics_frontend/index.html",
+    "main.df26d8a3.css.map": "/dsa_topics_frontend/static/css/main.df26d8a3.css.map",
+    "main.7962f169.js.map": "/dsa_topics_frontend/static/js/main.7962f169.js.map"
   },
   "entrypoints": [
     "static/css/main.df26d8a3.css",
