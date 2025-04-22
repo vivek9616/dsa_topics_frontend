@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dsa_topics_frontend/static/css/main.df26d8a3.css",
-    "main.js": "/dsa_topics_frontend/static/js/main.1913c66c.js",
+    "main.js": "/dsa_topics_frontend/static/js/main.a2c5a750.js",
     "index.html": "/dsa_topics_frontend/index.html",
     "main.df26d8a3.css.map": "/dsa_topics_frontend/static/css/main.df26d8a3.css.map",
-    "main.1913c66c.js.map": "/dsa_topics_frontend/static/js/main.1913c66c.js.map"
+    "main.a2c5a750.js.map": "/dsa_topics_frontend/static/js/main.a2c5a750.js.map"
   },
   "entrypoints": [
     "static/css/main.df26d8a3.css",
-    "static/js/main.1913c66c.js"
+    "static/js/main.a2c5a750.js"
   ]
 }
