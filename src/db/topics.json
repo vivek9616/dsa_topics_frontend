@@ -1,85 +1,177 @@
 [
-    {
-      "id": 1,
-      "name": "Arrays",
-      "level": "Beginner",
-      "chapters": [
-        {
-          "id": 1,
-          "name": "Introduction to Arrays",
-          "problems": [
-            {
-              "id": 1,
-              "name": "Find the Maximum Element",
-              "youtubeLink": "https://youtube.com/example1",
-              "leetcodeLink": "https://leetcode.com/example1",
-              "articleLink": "https://example.com/article1",
-              "level": "Easy",
-              "completed": false
-            },
-            {
-              "id": 2,
-              "name": "Two Sum Problem",
-              "youtubeLink": "https://youtube.com/example2",
-              "leetcodeLink": "https://leetcode.com/example2",
-              "articleLink": "https://example.com/article2",
-              "level": "Easy",
-              "completed": false
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "name": "Advanced Array Techniques",
-          "problems": [
-            {
-              "id": 3,
-              "name": "Kadane's Algorithm",
-              "youtubeLink": "https://youtube.com/example3",
-              "leetcodeLink": "https://leetcode.com/example3",
-              "articleLink": "https://example.com/article3",
-              "level": "Medium",
-              "completed": false
-            }
-          ]
-        }
-      ]
+  {
+    "_id": {
+      "$oid": "6803b466a5dbcb4cb071de07"
     },
-    {
-      "id": 2,
-      "name": "Linked Lists",
-      "level": "Intermediate",
-      "chapters": [
-        {
-          "id": 1,
-          "name": "Singly Linked List",
-          "problems": [
-            {
-              "id": 1,
-              "name": "Reverse a Linked List",
-              "youtubeLink": "https://youtube.com/example4",
-              "leetcodeLink": "https://leetcode.com/example4",
-              "articleLink": "https://example.com/article4",
-              "level": "Medium",
-              "completed": false
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "name": "Doubly Linked List",
-          "problems": [
-            {
-              "id": 2,
-              "name": "Flatten a Multilevel Doubly Linked List",
-              "youtubeLink": "https://youtube.com/example5",
-              "leetcodeLink": "https://leetcode.com/example5",
-              "articleLink": "https://example.com/article5",
-              "level": "Hard",
-              "completed": false
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    "id": 1,
+    "name": "Arrays",
+    "level": "Easy",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Introduction to Arrays",
+        "problems": [
+          {
+            "id": 1,
+            "name": "Find Maximum Element",
+            "youtubeLink": "https://www.youtube.com/example1",
+            "leetcodeLink": "https://leetcode.com/example1",
+            "articleLink": "https://example.com/article1",
+            "level": "Easy",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "name": "Reverse an Array",
+            "youtubeLink": "https://www.youtube.com/example2",
+            "leetcodeLink": "https://leetcode.com/example2",
+            "articleLink": "https://example.com/article2",
+            "level": "Medium",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Introduction to Arrays Searching",
+        "problems": [
+          {
+            "id": 1,
+            "name": "Find Maximum Element",
+            "youtubeLink": "https://www.youtube.com/example1",
+            "leetcodeLink": "https://leetcode.com/example1",
+            "articleLink": "https://example.com/article1",
+            "level": "Easy",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "name": "Reverse an Array",
+            "youtubeLink": "https://www.youtube.com/example2",
+            "leetcodeLink": "https://leetcode.com/example2",
+            "articleLink": "https://example.com/article2",
+            "level": "Medium",
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6803b466a5dbcb4cb071de08"
+    },
+    "id": 2,
+    "name": "Objects",
+    "level": "Easy",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Introduction to Arrays",
+        "problems": [
+          {
+            "id": 1,
+            "name": "Find Maximum Element",
+            "youtubeLink": "https://www.youtube.com/example1",
+            "leetcodeLink": "https://leetcode.com/example1",
+            "articleLink": "https://example.com/article1",
+            "level": "Easy",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "name": "Reverse an Array",
+            "youtubeLink": "https://www.youtube.com/example2",
+            "leetcodeLink": "https://leetcode.com/example2",
+            "articleLink": "https://example.com/article2",
+            "level": "Medium",
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Arrays",
+    "level": "Beginner",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Introduction to Arrays",
+        "problems": [
+          {
+            "id": 1,
+            "name": "Find the Maximum Element",
+            "youtubeLink": "https://youtube.com/example1",
+            "leetcodeLink": "https://leetcode.com/example1",
+            "articleLink": "https://example.com/article1",
+            "level": "Easy",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "name": "Two Sum Problem",
+            "youtubeLink": "https://youtube.com/example2",
+            "leetcodeLink": "https://leetcode.com/example2",
+            "articleLink": "https://example.com/article2",
+            "level": "Easy",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Advanced Array Techniques",
+        "problems": [
+          {
+            "id": 3,
+            "name": "Kadane's Algorithm",
+            "youtubeLink": "https://youtube.com/example3",
+            "leetcodeLink": "https://leetcode.com/example3",
+            "articleLink": "https://example.com/article3",
+            "level": "Medium",
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Linked Lists",
+    "level": "Intermediate",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Singly Linked List",
+        "problems": [
+          {
+            "id": 1,
+            "name": "Reverse a Linked List",
+            "youtubeLink": "https://youtube.com/example4",
+            "leetcodeLink": "https://leetcode.com/example4",
+            "articleLink": "https://example.com/article4",
+            "level": "Medium",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Doubly Linked List",
+        "problems": [
+          {
+            "id": 2,
+            "name": "Flatten a Multilevel Doubly Linked List",
+            "youtubeLink": "https://youtube.com/example5",
+            "leetcodeLink": "https://leetcode.com/example5",
+            "articleLink": "https://example.com/article5",
+            "level": "Hard",
+            "completed": false
+          }
+        ]
+      }
+    ]
+  }
+]
