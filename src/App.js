@@ -17,7 +17,6 @@ function App() {
 
   return (
     <TopicProvider>
-      <Router>
         <div className="App">
           <Routes>
             <Route
@@ -40,7 +39,6 @@ function App() {
             />
           </Routes>
         </div>
-      </Router>
     </TopicProvider>
   );
 }
